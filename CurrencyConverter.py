@@ -1,7 +1,5 @@
 import requests
 
-# replace the "demo" apikey below with your own key from https://www.alphavantage.co/support/#api-key
-
 key = '40H98M3QLBHI1OUH'
 
 frm = input("Enter currency to convert from: ")
